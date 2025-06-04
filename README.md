@@ -61,7 +61,7 @@ SIBD/
 
 ## ✨ Acknowledgments
 
-This work was developed as part of the SIBD course at ISEP. Special thanks to the professors and classmates for the insightful discussions and guidance.
+This work was developed as part of the SIBD course at FCUL. Special thanks to the professors and classmates for the insightful discussions and guidance.
 
 ---
 
